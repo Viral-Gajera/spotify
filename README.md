@@ -20,14 +20,9 @@
 
 <img src="https://github.com/Viral-Gajera/spotify/blob/main/images/9.png?raw=true" >
 
-<div style="display: flex;" >
-<img src="https://github.com/Viral-Gajera/spotify/blob/main/images/10.png?raw=true" style="width: 33%" >
-
-<img src="https://github.com/Viral-Gajera/spotify/blob/main/images/11.png?raw=true" style="width: 33%" >
-
-<img src="https://github.com/Viral-Gajera/spotify/blob/main/images/12.png?raw=true" style="width: 33%" >
-</div>
-
+| Mobile UI | Mobile UI | Mobile UI |
+| ------ | ------ | ------ |
+| <img src="https://github.com/Viral-Gajera/spotify/blob/main/images/10.png?raw=true"> | <img src="https://github.com/Viral-Gajera/spotify/blob/main/images/10.png?raw=true"> | <img src="https://github.com/Viral-Gajera/spotify/blob/main/images/12.png?raw=true"> |
 
 
 
