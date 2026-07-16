@@ -111,6 +111,7 @@ async function createAccount(req, res) {
             message: error.details[0]["message"],
             data: {},
         });
+        return;
     }
 
     // Check if email address already exists

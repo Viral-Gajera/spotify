@@ -1,5 +1,5 @@
 // require("dotenv").config();
-require("dotenv").config({ path: "deploy.env" });
+require("dotenv").config({ path: ".env" });
 let cors = require("cors");
 let express = require("express");
 let router = require("./app/router/router");

@@ -1,0 +1,32 @@
+{
+    "slug": "spotify",
+    "title": "Spotify",
+    "category": [
+        "Personal Project",
+        "Web Application"
+    ],
+    "shortDescription": "A full-stack Spotify clone with music streaming, user auth, uploads, playlists, and a polished UI like the original.",
+    "techStack": [
+        "React.js",
+        "TailwindCSS",
+        "Node.js",
+        "Express.js",
+        "SQL"
+    ],
+    "githubUrl": "https://github.com/Viral-Gajera/spotify",
+    "liveUrl": "https://github.com/Viral-Gajera/spotify",
+    "images": [
+        "https://github.com/Viral-Gajera/spotify/blob/main/images/1.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/2.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/3.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/4.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/5.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/6.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/7.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/8.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/9.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/10.png?raw=true",
+        "https://github.com/Viral-Gajera/spotify/raw/main/images/12.png?raw=true"
+    ],
+    "longDescription": "This is a full-stack Spotify clone built with React, Tailwind CSS, Node.js, Express, and SQL. It replicates the original Spotify's UI and offers core functionalities like music playback, next/previous track navigation, user authentication (login/signup), and song liking to create playlists. Additionally, users can upload their own .mp3 files to stream personal music. The project demonstrates seamless frontend-backend integration, user-friendly design, and robust audio handling. It showcases my skills in building production-level, responsive applications with real-world features and a focus on user experience."
+}
